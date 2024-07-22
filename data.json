@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "Name": "\u041A\u0430\u0440\u0442\u043E\u0448\u043A\u0430",
+    "Price": 219,
+    "Honorary_code": "1\u041A",
+    "State": "in_stock"
+  },
+  {
+    "Id": 2,
+    "Name": "\u0421\u043E\u043B\u044C",
+    "Price": 349,
+    "Honorary_code": "3\u0421",
+    "State": "sold"
+  },
+  {
+    "Id": 3,
+    "Name": "\u0421\u043E\u043B\u044C",
+    "Price": 446,
+    "Honorary_code": "3\u0421",
+    "State": "sold"
+  }
+]
